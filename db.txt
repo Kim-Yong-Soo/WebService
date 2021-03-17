@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 data1 - m
 data2 - m
+=======
+data10 -d
+>>>>>>> db
